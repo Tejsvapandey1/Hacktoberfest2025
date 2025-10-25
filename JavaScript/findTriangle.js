@@ -1,3 +1,5 @@
+// Solution of GFG findTriangle by Tejsva pandey
+
 class Solution {
     subarraySum(arr, target) {
         let start = 0;
